@@ -1,2 +1,2 @@
 # mygit
-my first repository
+BATTLE SHIPS
